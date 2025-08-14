@@ -23,6 +23,12 @@ A blazing-fast frontend built with **React** and **Vite**, designed for scalabil
 | Linting      | ESLint, Prettier              |
 | Version Ctrl | Git & GitHub                  |
 
+## Api For (crypto Project)
+
+create account on coingenko,
+get your api key 
+and add it to (crypto.jsx ) file 14th line
+
 ## 📦 Installation
 
 ### 1. Clone the Repository

@@ -11,7 +11,7 @@ function Crypto() {
     axios.get(url, {
       headers: {
         accept: 'application/json',
-        'x-cg-demo-api-key': 'CG-t5Vin6SbF9SCvLBgc7DfiQh3', // 🔑 Your API key
+        'x-cg-demo-api-key': '', 
       }
     })
     .then((response) => {
